@@ -10,7 +10,7 @@ def encrypt
                 background-color: #eee;
                 padding: 20px;
                 margin: 0 auto;
-                width: 540px;
+                width:540px;
                 font: 16px sans-serif;
                 border-radius: 10px;
             }
